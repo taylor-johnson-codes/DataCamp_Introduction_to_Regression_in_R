@@ -8,4 +8,4 @@ Includes dplyr/ggplot2/broom/tibble packages, tibble(), predict(), scatter plot,
 Includes broom/ggplot2/ggfortify/dplyr packages, summary(), glance(), pull(), autoplot(), augment(). arrange()
 
 ### 4_Simple logistic regression
-Includes  packages,
+Includes ggplot2/dplyr/yardstick packages, histogram, scatter plot, glm(), most_likely_outcome, odds_ratio, line plot, confusion matrix, conf_mat(), autoplot()
